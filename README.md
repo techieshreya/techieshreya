@@ -17,8 +17,7 @@ I'm a final-year **Computer Science** student at **BML Munjal University** (CGPA
 I bridge the gap between **DevOps/SRE** principles and **AI Engineering**, currently exploring how multi-agent systems can solve complex workflows.
 
 - **Current Focus:** Building **Agentic AI** workflows and strengthening **SRE** fundamentals (High Concurrency & Distributed Systems).
-- **Fun Fact:** I have a keen interest in **Astrology** and I'm always on the hunt for the best **Desi Village-themed food** spots!
-
+-**Leadership & Interests:** I was the **Sports Captain** for the university Archery team [cite: 36] [cite_start]and served as the **Design Head for SAVERA NGO**, leading creative social impact campaigns
 ---
 
 ### 🚀 Technical Expertise
