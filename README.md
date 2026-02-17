@@ -33,12 +33,6 @@ I bridge the gap between **DevOps/SRE** principles and **AI Engineering**, curre
 
 ### 💼 Featured Projects
 
-#### 🔐 LedgerLock
-**High-Concurrency Payment Engine**
-* **Tech Stack:** Java, Spring Boot, PostgreSQL, Kafka
-* **Focus:** SRE & Fintech Architecture
-* **Highlight:** Implemented double-entry ledger architecture to ensure ACID compliance and handle high-volume concurrent transactions without race conditions.
-
 #### 💊 PharmaAgent
 **Drug Repurposing System**
 * **Tech Stack:** Python, CrewAI, LangGraph, LLMs
