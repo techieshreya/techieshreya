@@ -5,7 +5,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20SRE-blueviolet?style=flat-square" alt="Current Focus" />
   <img src="https://img.shields.io/badge/Location-India-red?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Role-Incoming%20GET%20%40%20Orange-orange?style=flat-square" alt="Company" />
 </p>
 
 ---
