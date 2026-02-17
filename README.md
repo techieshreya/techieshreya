@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a final-year **Computer Science** student at **BML Munjal University** (CGPA: 8.5) with a deep passion for building scalable infrastructure and autonomous AI systems. I am currently an **Intern at Orange Business**, transitioning to a full-time Graduate Engineer Trainee (GET) role in 2026.
+I'm a final-year **Computer Science** student at **BML Munjal University** (CGPA: 8.5) with a deep passion for building scalable infrastructure and autonomous AI systems. 
 
 I bridge the gap between **DevOps/SRE** principles and **AI Engineering**, currently exploring how multi-agent systems can solve complex workflows.
 
